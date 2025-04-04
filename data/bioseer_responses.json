@@ -1,0 +1,49 @@
+{
+  "responses": [
+    {
+      "main_relationship": "Siblings/Brothers",
+      "interaction_stability": "Yes",
+      "secondary_structure": "Fully α-Helix",
+      "amino_acid_contact": "Fully Hydrophobic (A, V, L, I, M, F, etc.)",
+      "special_amino_acids": "Prolines (P)",
+      "interpretation": {
+        "en": "These partners interact like siblings—close, but with some quirks that make them dynamic. Their bond appears stable and enduring. The fully α-helical structure provides rigidity and strength to the interaction. Hydrophobic interactions keep the partners together, avoiding water. Proline residues introduce kinks, adding some structural constraints. They're basically the protein version of a sitcom family.",
+        "es": "Estos socios interactúan como hermanos: cercanos, pero con algunas peculiaridades que los hacen dinámicos. Su vínculo parece estable y duradero. La estructura completamente α-helicoidal proporciona rigidez y fuerza a la interacción. Las interacciones hidrofóbicas mantienen a los socios unidos, evitando el agua. Los residuos de prolina introducen giros, lo que añade algunas restricciones estructurales. Son básicamente la versión proteica de una familia de comedia de situación."
+      }
+    },
+    {
+      "main_relationship": "Accomplished Couple",
+      "interaction_stability": "Partially",
+      "secondary_structure": "Mixed (α-Helix + β-Sheet)",
+      "amino_acid_contact": "Mixed Electrostatic & Hydrophobic",
+      "special_amino_acids": "Histidines (H)",
+      "interpretation": {
+        "en": "This interaction is as stable and harmonious as an accomplished couple, complementing each other perfectly. Their interaction is somewhat stable but with occasional fluctuations. The combination of α-helices and β-sheets provides both stability and adaptability. The contact is balanced between hydrophobic attraction and electrostatic pull. Histidine residues may provide pH-dependent binding properties. They're like a power couple, but with occasional disagreements over the thermostat.",
+        "es": "Esta interacción es tan estable y armoniosa como la de una pareja consolidada, complementándose perfectamente. Su interacción es algo estable, pero con fluctuaciones ocasionales. La combinación de α-hélices y β-láminas proporciona estabilidad y adaptabilidad. El contacto está equilibrado entre la atracción hidrofóbica y el tirón electrostático. Los residuos de histidina pueden proporcionar propiedades de unión dependientes del pH. Son como una pareja poderosa, pero con desacuerdos ocasionales sobre el termostato."
+      }
+    },
+    {
+      "main_relationship": "Desired Couple",
+      "interaction_stability": "No",
+      "secondary_structure": "Fully Disordered",
+      "amino_acid_contact": "None",
+      "special_amino_acids": "None",
+      "interpretation": {
+        "en": "This interaction is like a desired couple that hasn't quite connected. The fully disordered structure suggests a lack of stable interaction. The absence of specific amino acid contacts indicates minimal binding affinity. They're like two people who keep missing each other at parties.",
+        "es": "Esta interacción es como una pareja deseada que no ha conectado del todo. La estructura totalmente desordenada sugiere una falta de interacción estable. La ausencia de contactos específicos de aminoácidos indica una afinidad de unión mínima. Son como dos personas que siguen perdiéndose en las fiestas."
+      }
+    },
+    {
+      "main_relationship": "Work Colleagues",
+      "interaction_stability": "Yes",
+      "secondary_structure": "Mixed (α-Helix + β-Sheet + Disordered)",
+      "amino_acid_contact": "Polar-Polar (N, Q, S, T, Y, etc.)",
+      "special_amino_acids": "None",
+      "interpretation": {
+        "en": "This interaction is like work colleagues—professional and functional. The mixed secondary structure provides a balance of stability and flexibility. Polar-polar contacts suggest a cooperative, but not overly intimate, relationship. They get the job done, but don't expect them to hang out after hours.",
+        "es": "Esta interacción es como la de colegas de trabajo: profesional y funcional. La estructura secundaria mixta proporciona un equilibrio de estabilidad y flexibilidad. Los contactos polares-polares sugieren una relación cooperativa, pero no demasiado íntima. Hacen el trabajo, pero no esperes que salgan después del trabajo."
+      }
+    }
+  ]
+}
+
